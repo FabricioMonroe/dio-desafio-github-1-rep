@@ -1,0 +1,14 @@
+dir - Listar
+cd / nome da pasta - Escolher
+cd ..  - Subir um nível
+clear - Limpar
+TAB - Completar
+mkdir - Criar Pasta
+del - Deletar Arquivo
+rmdir - Deletar Pasta
+
+Git -> GitHub
+1º git status 	- status da pasta que estou
+2º git add . -a    -incluir para controle de versão
+3º git commit - atualizar e deixar msg na versão
+4º git push - para enviar ao GitHub
